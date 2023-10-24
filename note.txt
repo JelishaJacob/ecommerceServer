@@ -1,0 +1,29 @@
+npm init
+
+install nodemon
+install mongoose
+install dotenv
+install cors
+
+mongodb
+ while creating schema in mongodb atlas .
+        - schemaName must be plural
+        - schemaName must contain 's' at the end
+        - ex: users     admins  
+
+
+        https://i.postimg.cc/kM8WJ4JB/bracelet2.jpg
+        "Bangle Bracelet"
+description
+"Sterling Silver Overlapping Bangle Bracelet  
+
+https://i.postimg.cc/0NFk0Y8w/shirt.jpg
+https://i.postimg.cc/PJ9V6Q6B/gring1.jpg
+https://i.postimg.cc/cLRGcfBf/dress1.jp
+https://i.postimg.cc/VNzQZ5Kp/salvar1.jpg
+https://i.postimg.cc/bvLX78MJ/t-shirt.jpg
+https://i.postimg.cc/28DhVDyT/earRing.jpg
+
+
+https://i.postimg.cc/sDqggDyD/earring2.webp
+https://i.postimg.cc/C56LDwq7/bracelet1.jpg
